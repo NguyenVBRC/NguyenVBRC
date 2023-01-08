@@ -2,12 +2,8 @@
 <h3 align="center">A passionate developer from Milwaukee, WI.</h3>
 
 - 🔭 I’m currently working on [a Resource Page for a gaming community](https://nguyenvbrc.github.io/OmokPlace/)
-
 - 🌱 I’m currently learning **MongoDb, Express, React, and Node**
-
 - 📫 How to reach me **Nguyen89.mke@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
