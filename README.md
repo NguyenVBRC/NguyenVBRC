@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jimmy.</h1>
 <h3 align="center">A passionate developer from Milwaukee, WI.</h3>
 
-- 🔭 I’m currently working on [a Full Stack Resource Page](https://nguyenvbrc.github.io/OmokPlace/)
+- 🔭 I’m currently working on [a Resource Page for a gaming community](https://nguyenvbrc.github.io/OmokPlace/)
 
 - 🌱 I’m currently learning **MongoDb, Express, React, and Node**
 
