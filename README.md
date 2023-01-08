@@ -2,10 +2,10 @@
 <h1 align="center">Hello, I'm Jimmy.</h1>
 
 - 🔭 I’m currently working on [a Full Stack Resource Page](https://nguyenvbrc.github.io/OmokPlace/)
-- 🌱 I’m currently learning **MongoDb, Express, React, and Node**
+- 🌱 Current Tech Stack: **MongoDb, Express, React, and Node**
 - 📫 How to reach me **Nguyen89.mke@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Learn more about me on my portfolio: [Here](https://nguyenvbrc.github.io/Portfolio)</h3>
 <p align="left">
 </p>
 
