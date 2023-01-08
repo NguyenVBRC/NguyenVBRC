@@ -5,7 +5,8 @@
 - 🌱 Current Tech Stack: **MongoDb, Express, React, and Node**
 - 📫 How to reach me **Nguyen89.mke@gmail.com**
 
-<h3 align="left">Learn more about me on my portfolio:</h3> [Here](https://nguyenvbrc.github.io/Portfolio)
+<h3 align="left">Learn more about me on my portfolio:</h3> 
+[Here](https://nguyenvbrc.github.io/Portfolio)
 <p align="left">
 </p>
 
