@@ -2,8 +2,6 @@
 <h1 align="center">Welcome, my name is Jimmy and I'm a Full Stack Developer.</h1>
 
 - Click [here](https://nguyenvbrc.github.io/Portfolio/) to see my Portfolio!
-- 🔭 I’m currently working on [a Full Stack Resource Page](https://github.com/NguyenVBRC/OmokFS)
-- 🌱 Current Tech Stack: **MongoDb, Express, React, and Node**
 - 📫 How to reach me **Nguyen89.mke@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
